@@ -27,14 +27,16 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop - Mobile
+
 ![](./modile-desktop.jpg)
 
 #### Stats active
+
 ![](./stast-active.jpg)
 
 ### Links
 
-- Solution URL: [This is the solution as seen from Frontend Mentor]() Coming soon.
+- Solution URL: [This is the solution as seen from Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-G1NwZYzeTt).
 - Live Site URL: [Live solution](https://boudgnosis.github.io/article-preview-component/).
 
 ## My process
@@ -50,6 +52,7 @@ Users should be able to:
 - Pseudo-classes
 - JavaScript vanilla
 - [Google Fonts](https://fonts.google.com/)
+- [Normalize](https://necolas.github.io/normalize.css/)
 
 ### What I learned
 
@@ -63,7 +66,6 @@ I continue to improve my learning about DOM manipulation.
 
 - [Desarrollo Web 6](https://desarrolloweb.com/faq/como-anadir-y-quitar-una-clase-css-de-un-elemento-mediante-javascript) - It was on this site that I discovered the method I used for this project.
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/toggle) - It helped me to better understand the toggle method.
-
 
 ## Author
 
